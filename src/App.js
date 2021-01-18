@@ -7,7 +7,7 @@ function App() {
         <p>
         </p>
       
-          fuck you sharon
+          Sharon, put the cookie down.
       </header>
     </div>
   );
